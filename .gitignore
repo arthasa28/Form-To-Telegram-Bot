@@ -1,0 +1,5 @@
+# Jangan unggah file konfigurasi atau kredensial
+# Meskipun di sini berbentuk variabel di dalam file js,
+# ke depannya disarankan memakai Script Properties.
+
+.DS_Store
